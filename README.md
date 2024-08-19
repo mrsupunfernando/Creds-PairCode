@@ -3,7 +3,7 @@
 - I recommend termux as it's easily accessible any time.
 
 ### *PAIR [DIRECTLY HERE](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions/pair)*
-### *RUN ON [REPLIT](https://replit.com/@mrsupunfernando/Giftedv5-PairCode?v=1)*
+### *RUN ON [REPLIT](https://replit.com/@mrsupunfernando/SupunMd-PairCode?v=1)*
 - Fork the Repl then hit the run button.
 
 ### *RUN ON [CODESPACES](https://github.com/codespaces/new/mrsupunfernando/Creds-PairCode?skip_quickstart=true&machine=standardLinux32gb&repo=821208415&ref=main&geo=EuropeWest)*
